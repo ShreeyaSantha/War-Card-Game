@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WARShreeyaCardGame</string>
+    <string name="war_the_card_game">WAR THE CARD GAME</string>
+    <string name="deal">DEAL</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
